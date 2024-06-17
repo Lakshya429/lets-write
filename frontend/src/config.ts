@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://lets-write.lakshyathakur.workers.dev"
